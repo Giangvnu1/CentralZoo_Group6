@@ -22,7 +22,7 @@ Documentations : https://github.com/Giangvnu1/CentralZoo_Group6/tree/main/Docume
 
 =======================================
 
-Published website : https://giangvnu1.github.io/CentralZoo_Group6/
+Published website : https://giangvnu1.github.io/CentralZoo_Group6/CENTRAL-ZOO-WebSite
 
 =======================================
 
